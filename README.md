@@ -33,7 +33,9 @@ I'm Yi, a student who likes to mess around with code.
 1. JS (Messy.)
 2. Web frontend (For no reasons.)
 3. Tencent & Baidu & 163 & etc.
+4. GFW
 
 ## Contacts
 - Mail: [1783250036@qq.com](mailto:1783250036@qq.com) (Checked every 10 days at most.)
 - Telegram: +86 17183312815
+- Steam: [@xkcd17](https://steamcommunity.com/profiles/76561199021640412/)
