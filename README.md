@@ -17,7 +17,7 @@ I'm Yi, a student who likes to mess around with code.
   - C/C++ related stuff (Not professional)
   - Freaking out with Python (Still not professional)
 
-***GOING TO BE FROFESSIONAL IN THE FUTURE!***
+***GOING TO BE PROFESSIONAL IN THE FUTURE!***
 
 ## Likes & Dislikes
 
@@ -26,9 +26,14 @@ I'm Yi, a student who likes to mess around with code.
 2. Swift (A nice choice for modern coding.)
 3. Python (+1 for PYPI.)
 4. Homebrew
-5. KSP & CS:GO & Stick Fight & Oxygen Not Included (?????)
+5. xkcd
+6. KSP & CS:GO & Stick Fight & Oxygen Not Included (?????)
 
 ### Dislikes
 1. JS (Messy.)
 2. Web frontend (For no reasons.)
 3. Tencent & Baidu & 163 & etc.
+
+## Contacts
+- Mail: [1783250036@qq.com](mailto:1783250036@qq.com) (Checked every 10 days at most.)
+- Telegram: +86 17183312815
