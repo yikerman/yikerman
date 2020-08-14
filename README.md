@@ -10,7 +10,7 @@ I'm Yi, a student who likes to mess around with code.
   - C
   - C++ (Not professional)
   - Python
-  - Swift
+  - Swift (Not professional)
 - Technology
   - iOS App Dev (Not professional)
   - C/C++ related stuff (Not professional)
