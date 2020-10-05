@@ -21,5 +21,5 @@ I'm Yi, a student who likes to mess around with code.
 
 ## Contacts
 - Mail: [1783250036@qq.com](mailto:1783250036@qq.com) (Checked every 10 days at most.)
-- Telegram: +86 17183312815
+- Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
 - Steam: [@xkcd17](https://steamcommunity.com/profiles/76561199021640412/)
