@@ -5,17 +5,7 @@
 
 I'm Yi, a student who likes to mess around with code.
 
-## Skills
-
-- Languages
-  - C
-  - C++ (Not professional)
-  - Python
-  - Swift (Not professional)
-- Technology
-  - iOS App Dev (Not professional)
-  - C/C++ related stuff (Not professional)
-  - Freaking out with Python (Still not professional)
+I do program in C/C++/Python/Swift a bit. C# is ugly but it kinda works (Unity, spec. KSP). NPM is a bad idea.
 
 ***GOING TO BE PROFESSIONAL IN THE FUTURE!***
 
