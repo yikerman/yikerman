@@ -10,6 +10,6 @@ I do program in C/C++/Python/Swift a bit. C# is ugly but it kinda works (Unity, 
 ***GOING TO BE PROFESSIONAL IN THE FUTURE!***
 
 ## Contacts
-- Mail: [1783250036@qq.com](mailto:1783250036@qq.com) (Checked every 10 days at most.)
+- Mail: [1783250036@qq.com](mailto:1783250036@qq.com)
 - Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
-- Steam: [@xkcd17](https://steamcommunity.com/profiles/76561199021640412/)
+- Steam: [@xkcd17](https://steamcommunity.com/id/xiaoyu2006/)
