@@ -5,10 +5,6 @@
 
 I'm Yi, a student who likes to mess around with code.
 
-I do program in C/C++/Python a bit. C# is ugly but it kinda works (Unity, spec. KSP). NPM is a bad idea.
-
-***GOING TO BE PROFESSIONAL IN THE FUTURE!***
-
 ## Contacts
 - Mail: [caoyi06@qq.com](mailto:caoyi06@qq.com)
 - Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
