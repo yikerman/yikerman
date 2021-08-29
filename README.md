@@ -10,3 +10,4 @@ I'm Yi, a student who likes to mess around with code.
  - Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
  - Steam: [@xkcd17](https://steamcommunity.com/id/xiaoyu2006/)
  - BTC: `1Myv4Z5efT8TJRfNyW9WXSN91WxP3zvEC2`
+ - ETH: `0x02CbAd7f9BabC4313Ff590f92b0206d0C47CFc96`
