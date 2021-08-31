@@ -9,5 +9,5 @@ I'm Yi, a student who likes to mess around with code.
  - Mail: [caoyi06@qq.com](mailto:caoyi06@qq.com)
  - Telegram: [@xiaoyu2006](https://t.me/xiaoyu2006)
  - Steam: [@xkcd17](https://steamcommunity.com/id/xiaoyu2006/)
- - BTC: `1Myv4Z5efT8TJRfNyW9WXSN91WxP3zvEC2`
+ - BTC: `bc1q5uq7q6y5ahuz6te0x8t5x4y7asd79tuufw5z95`
  - ETH: `0x02CbAd7f9BabC4313Ff590f92b0206d0C47CFc96`
