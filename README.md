@@ -6,5 +6,5 @@ I'm Yi, a student who likes to mess around with code.
 
 ## Contacts
  - Website: [https://ycao.top](https://ycao.top)
- - Mail: [me@ycao.top](mailto:me@ycao.top)
+ - Mail: [me@ycao.top](mailto:me@ycao.top) (PGP: [`C9C2FACB49E3D6A5`](https://ycao.top/pgp/))
  - Twitter: [@xiaoyu2006](https://twitter.com/xiaoyu2006)
