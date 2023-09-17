@@ -8,3 +8,4 @@ I'm Yi, a student who likes to mess around with code.
  - Website: [https://ycao.top](https://ycao.top)
  - Mail: [me@ycao.top](mailto:me@ycao.top) (PGP: [`C9C2FACB49E3D6A5`](https://ycao.top/pgp/))
  - Twitter: [@xiaoyu2006](https://twitter.com/xiaoyu2006)
+ - Ethereum: `0x02CbAd7f9BabC4313Ff590f92b0206d0C47CFc96`
