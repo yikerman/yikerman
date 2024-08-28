@@ -7,4 +7,4 @@ I'm Yi, a student who likes to mess around with code.
 ## Contacts
 
  - Website: [https://ycao.top](https://ycao.top)
- - Mail: [me@ycao.top](mailto:me@ycao.top) (PGP: [`C9C2FACB49E3D6A5`](https://ycao.top/pgp/))
+ - Mail: [me@ycao.top](mailto:me@ycao.top) (PGP: [`32D4F5ABB4663AAE942BBF9A96CCEE15AC5257C4`](https://ycao.top/pgp/))
