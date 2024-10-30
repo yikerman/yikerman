@@ -1,6 +1,6 @@
 # *Sugar makes me happy.*
 
-[![Yi's GitHub Stats](https://github-readme-stats-iota-virid.vercel.app/api?username=xiaoyu2006&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&card_width=300)](https://github.com/xiaoyu2006)
+[![Yi's GitHub Stats](https://github-readme-stats-iota-virid.vercel.app/api?username=yikerman&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true&card_width=300)](https://github.com/yikerman)
 
 I'm Yi, a student who likes to mess around with code.
 
